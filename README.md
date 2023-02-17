@@ -2,4 +2,4 @@
 Demo of a repository
 
 
-This just for Software Engineering Assignment.
+This is just for Software Engineering Assignment.
